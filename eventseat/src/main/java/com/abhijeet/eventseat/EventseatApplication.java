@@ -10,4 +10,4 @@ public class EventseatApplication {
         SpringApplication.run(EventseatApplication.class, args);
     }
 
-}
+    }
